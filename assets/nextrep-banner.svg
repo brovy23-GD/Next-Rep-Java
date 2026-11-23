@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 420" role="img" aria-labelledby="title desc">
+<title id="title">NextRep Java — Athlete Training Tracker</title>
+<desc id="desc">Dark navy sports technology banner featuring NextRep Java branding, Java 21, CLI, automated tests, and CI.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111d"/><stop offset=".55" stop-color="#122c45"/><stop offset="1" stop-color="#071522"/></linearGradient>
+ <linearGradient id="steel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#90b3ca"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#18a7f1"/><stop offset="1" stop-color="#67daff"/></linearGradient>
+</defs>
+<rect width="1440" height="420" fill="url(#bg)"/>
+<g stroke="#39aff6" opacity=".17" fill="none">
+ <path d="M0 90H1440M0 195H1440M0 300H1440M150 0V420M420 0V420M700 0V420M980 0V420M1240 0V420"/>
+ <path d="M0 420L500 0M500 420L1050 0M1050 420L1440 105" stroke-width="2"/>
+</g>
+<g fill="none" stroke="#319ed7" opacity=".6" stroke-width="4">
+ <circle cx="1185" cy="200" r="97"/><path d="M1150 175l38-40 45 38-15 59-54 16-35-29z"/>
+ <path d="M1093 195H1005M1278 195H1365M1185 103V20M1185 297V391"/>
+</g>
+<path d="M0 350H1440" stroke="#18b4ff" stroke-width="3" opacity=".8"/>
+<path d="M0 354H1440" stroke="#0a5b98" stroke-width="10" opacity=".4"/>
+<rect x="86" y="84" width="8" height="186" rx="4" fill="#12aaf9"/>
+<text x="125" y="168" fill="url(#steel)" font-family="Arial,Helvetica,sans-serif" font-size="89" font-weight="800" letter-spacing="-3">NEXTREP</text>
+<text x="650" y="168" fill="url(#blue)" font-family="Arial,Helvetica,sans-serif" font-size="89" font-weight="800" letter-spacing="-2">JAVA</text>
+<text x="128" y="218" fill="#bcd3e8" font-family="Arial,Helvetica,sans-serif" font-size="31" letter-spacing="10">ATHLETE TRAINING TRACKER</text>
+<text x="128" y="275" fill="#5ac8ff" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="4">TRACK  •  TRAIN  •  IMPROVE</text>
+<text x="129" y="382" fill="#e6f6ff" font-family="Arial,Helvetica,sans-serif" font-size="23" letter-spacing="3">JAVA 21   •   CLI   •   AUTOMATED TESTS   •   GITHUB ACTIONS</text>
+</svg>
